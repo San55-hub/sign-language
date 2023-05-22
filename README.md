@@ -14,13 +14,13 @@ This project aims to bridge the communication gap between the hearing-impaired c
 To install and run this project, follow these steps:
 
 1. Clone the repository:
-2.git clone https://github.com/San55-hub/sign-language/
+.git clone https://github.com/San55-hub/sign-language/
 
 cd repository
 
 
-3. Install the required dependencies:
-4. pip install -r requirements.txt
+2. Install the required dependencies:
+3. pip install -r requirements.txt
 
 
 ## Usage
