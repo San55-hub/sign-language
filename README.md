@@ -25,10 +25,6 @@ cd repository
 
 To run the Application run Application.py.
 
-## Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
